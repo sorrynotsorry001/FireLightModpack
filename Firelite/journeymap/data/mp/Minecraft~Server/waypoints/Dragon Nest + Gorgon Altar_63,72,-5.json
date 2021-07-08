@@ -1,0 +1,18 @@
+{
+  "id": "Dragon Nest + Gorgon Altar_63,72,-5",
+  "name": "Dragon Nest + Gorgon Altar",
+  "icon": "waypoint-normal.png",
+  "x": 63,
+  "y": 72,
+  "z": -5,
+  "r": 189,
+  "g": 195,
+  "b": 199,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
